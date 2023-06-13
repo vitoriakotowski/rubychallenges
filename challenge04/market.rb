@@ -1,4 +1,4 @@
-class Store
+class Market
     def initialize(product, price)
         @product = product
         @price = price
