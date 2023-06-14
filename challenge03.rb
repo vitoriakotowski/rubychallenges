@@ -9,3 +9,5 @@ def check_cpf(cpf_number)
         return "O CPF informado é inválido."
     end
 end
+
+puts time.now
